@@ -1,5 +1,4 @@
-# Assignment-2-Object-Oriented-Programming-Inheritance-and-Abstraction-
-# Vehicle Management System
+
 
 ## A. Project Overview
 • Purpose and description of the Vehicle Management System  
@@ -32,13 +31,17 @@ Each subclass overrides `startEngine()` to provide vehicle‑specific behavior.
 ---
 
 ## C. Instructions to Compile and Run
-To compile and run the program: 
+To compile and run the program:
 
 ```bash
 javac *.java
 java Main
 
-## E. Reflection Section
+
+
+
+
+## E. Reflection Section# Vehicle Management System
 • How inheritance simplified the design
 Inheritance allowed all vehicle types to share a common structure defined in the superclass Vehicle.
 This eliminated code duplication and made the system easier to extend when adding new vehicle types.
@@ -47,9 +50,7 @@ Each subclass (Car, Truck, Motorcycle) overrode methods such as startEngine() to
 This ensured consistent design while allowing flexibility for unique behaviors.
 • Challenges faced with access modifiers
 Using protected fields enabled subclasses to access necessary data, but required careful control to avoid exposing too much.
-Default access sometimes caused confusion when classes in different packages needed visibility, highlighting the importance of deliberate modifier choice
+Default access sometimes caused confusion when classes in different packages needed visibility, highlighting the importance of deliberate modifier choice.
 
 
-```bash
-javac *.java
-java Main
+
