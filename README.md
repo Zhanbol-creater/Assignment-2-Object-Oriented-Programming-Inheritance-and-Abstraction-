@@ -1,4 +1,4 @@
-##​‍​‌‍​‍‌ A. Project Overview
+## A. Project Overview
 
 • Purpose and description of the Vehicle Management System Vehicle Management System is a system that is developed to depict different vehicles and their drivers.
 
